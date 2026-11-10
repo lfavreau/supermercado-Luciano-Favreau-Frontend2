@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/supermercado-Luciano-Favreau-Frontend2/static/css/main.5adffda6.css",
+    "main.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/main.aa972b24.js",
+    "static/js/465.191067de.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/465.191067de.chunk.js",
+    "static/js/499.d16b208b.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/499.d16b208b.chunk.js",
+    "static/js/787.0261a4f9.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/787.0261a4f9.chunk.js",
+    "static/js/805.a303b935.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/805.a303b935.chunk.js",
+    "static/js/840.d1a6b0d9.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/840.d1a6b0d9.chunk.js",
+    "static/js/710.41579e6c.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/710.41579e6c.chunk.js",
+    "static/js/2.c5349364.chunk.js": "/supermercado-Luciano-Favreau-Frontend2/static/js/2.c5349364.chunk.js",
+    "index.html": "/supermercado-Luciano-Favreau-Frontend2/index.html",
+    "main.5adffda6.css.map": "/supermercado-Luciano-Favreau-Frontend2/static/css/main.5adffda6.css.map",
+    "main.aa972b24.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/main.aa972b24.js.map",
+    "465.191067de.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/465.191067de.chunk.js.map",
+    "499.d16b208b.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/499.d16b208b.chunk.js.map",
+    "787.0261a4f9.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/787.0261a4f9.chunk.js.map",
+    "805.a303b935.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/805.a303b935.chunk.js.map",
+    "840.d1a6b0d9.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/840.d1a6b0d9.chunk.js.map",
+    "710.41579e6c.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/710.41579e6c.chunk.js.map",
+    "2.c5349364.chunk.js.map": "/supermercado-Luciano-Favreau-Frontend2/static/js/2.c5349364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adffda6.css",
+    "static/js/main.aa972b24.js"
+  ]
+}
